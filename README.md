@@ -31,3 +31,25 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
+## Installation
+Here's how to get started
+- Clone Repo:
+```
+get clone https://github.com/Hfranz1/E-Commerce-Back-End.git
+```
+- create your own .env file
+- Install:
+```
+npm install
+```
+-  open root file:
+```
+myspl -u username -p
+```
+- SORCE db/schema.sql
+```
+
+## Video example
+- 
+
+## Links
